@@ -1,0 +1,6 @@
+{
+  "name": "কৃষি বৃত্তান্ত",
+  "description": "বাংলাদেশের ৬৪টি জেলার ফসলভিত্তিক সম্পূর্ণ চাষাবাদ পদ্ধতি, সময়কাল ও রোগবালাই নিয়ন্ত্রণের পূর্ণাঙ্গ সহায়িকা",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
